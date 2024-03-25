@@ -3,45 +3,28 @@
 ```bash
 tree data -L 3
 data
-├── D-GA
-│   ├── Ego-Planner
-│   │   ├── S1
+├── D-GA    #algorithm
+│   ├── ......
+├── Ours    #algorithm
+│   ├── Ego-Planner    #path planner under test
+│   │   ├── S1    #scenario
 │   │   ├── S2
 │   │   ├── S3
 │   │   └── S4
-│   └── Ego-Planner-Swarm
+│   └── Ego-Planner-Swarm    #path planner under test
 │       ├── S1
 │       ├── S2
 │       ├── S3
 │       └── S4
-├── Ours
-│   ├── Ego-Planner
-│   │   ├── S1
-│   │   ├── S2
-│   │   ├── S3
-│   │   └── S4
-│   └── Ego-Planner-Swarm
-│       ├── S1
-│       ├── S2
-│       ├── S3
-│       └── S4
-└── Rand
-    ├── Ego-Planner
-    │   ├── S1
-    │   ├── S2
-    │   ├── S3
-    │   └── S4
-    └── Ego-Planner-Swarm
-        ├── S1
-        ├── S2
-        ├── S3
-        └── S4
+└── Rand    #algorithm
+    ├── ......
+
 
 tree data/Ours/Ego-Planner/S1/ -L 2
-data/Ours/Ego-Planner/S1/
-├── 1
-│   ├── misbehaviour
-│   └── scenarios
+S1
+├── 1    #replicates experiments, 5 runs
+│   ├── misbehaviour    #scenarios which trigger misbehaviours
+│   └── scenarios    #all the generated scenarios
 ├── 2
 │   ├── misbehaviour
 │   └── scenarios
