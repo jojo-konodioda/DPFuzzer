@@ -1,6 +1,3 @@
-# PPFuzzer 
-
-
 ## Setup
 
 - Install `Ego-Planner` following the official instructions and make sure it is installed in your home directory:  
@@ -9,12 +6,7 @@
 
 - Execute the official example to ensure `Ego-Planner` is correctly installed.
 
-- Clone the source code:
-
-```javascript
-git clone PPFuzzer
-cd PPFuzzer/src
-```
+- Clone the source code
 
 
 ## Replay 
