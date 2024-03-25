@@ -1,3 +1,6 @@
+## Data Structure
+
+```bash
 data
 ├── D-GA
 │   ├── Ego-Planner
@@ -39,3 +42,4 @@ data/Ours/Ego-Planner/S1/
 ├── 3
 ├── 4
 └── 5
+```
