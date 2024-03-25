@@ -1,6 +1,7 @@
 ## Data Structure
 
 ```bash
+tree data -L 3
 data
 ├── D-GA
 │   ├── Ego-Planner
@@ -36,10 +37,22 @@ data
         ├── S3
         └── S4
 
+tree data/Ours/Ego-Planner/S1/ -L 2
 data/Ours/Ego-Planner/S1/
 ├── 1
+│   ├── misbehaviour
+│   └── scenarios
 ├── 2
+│   ├── misbehaviour
+│   └── scenarios
 ├── 3
+│   ├── misbehaviour
+│   └── scenarios
 ├── 4
+│   ├── misbehaviour
+│   └── scenarios
 └── 5
+    ├── misbehaviour
+    └── scenarios
+
 ```
