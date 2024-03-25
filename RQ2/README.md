@@ -17,7 +17,7 @@ data
 │       ├── S3
 │       └── S4
 └── Rand    #algorithm
-    ├── ......
+    └── ......
 
 
 tree data/Ours/Ego-Planner/S1/ -L 2
