@@ -1,5 +1,5 @@
 ## RQ2
-The 'data' folder contains all the data in 'Table II'
+The `data` folder contains all the data in `Table II`
 
 ### Structure
 
