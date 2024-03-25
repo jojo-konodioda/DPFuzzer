@@ -1,4 +1,7 @@
-## Data Structure
+## RQ2
+The 'data' folder contains all the data in 'Table II'
+
+### Structure
 
 ```bash
 tree data -L 3
@@ -43,7 +46,7 @@ S1
 ```
 
 
-## Scenario Description
+### Scenario Description
 ```bash
 cat data/Ours/Ego-Planner/S1/1/misbehaviour/4/immobility/1.json
 
