@@ -61,6 +61,6 @@
   <div style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.9); padding: 8px;">
     <b style="font-size: 32px;">#8</b>
   </div>
-  <img src="RQ1/gifs/type8/type8-2.gif" alt="image" style="width: 480px; height: auto;">
+  <img src="RQ1/gifs/type8/type8-1.gif" alt="image" style="width: 480px; height: auto;">
 </div>
 </p>
