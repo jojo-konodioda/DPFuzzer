@@ -2,8 +2,10 @@
 
 ## RQ1
 ### \#1
-<p align = "left">
+<p align = "center">
 #1
+<img src="RQ1/gifs/type1/type1-1.gif" height = "360" border="5" />
+#2
 <img src="RQ1/gifs/type1/type1-1.gif" height = "360" border="5" />
 </p>
 
