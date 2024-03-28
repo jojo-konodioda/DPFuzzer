@@ -4,6 +4,9 @@ Details about path planners we investigated are available in `investigated_plann
 Code for replaying these scenarios is available in `RQ1` folder.
 
 ## Videos
+
+### 8 types of misbehaviors
+
 <p align = "center">
 <div style="position: relative; display: inline-block;">
   <div style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.9); padding: 8px;">
