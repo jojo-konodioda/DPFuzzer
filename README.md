@@ -72,5 +72,3 @@ Code for replaying these scenarios is available in `RQ1` folder.
 Data in RQ2 is available in `RQ2` folder.
 
 # RQ3
-
-# investigated_planners
