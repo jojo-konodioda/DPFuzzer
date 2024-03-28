@@ -1,5 +1,7 @@
+Details about path planners we investigated are available in `investigated_planners` folder.
+
 # RQ1
-Code for replaying these scenarios are available in  `RQ1` folder.
+Code for replaying these scenarios is available in `RQ1` folder.
 
 ## Videos
 <p align = "center">
@@ -65,3 +67,10 @@ Code for replaying these scenarios are available in  `RQ1` folder.
   <img src="RQ1/gifs/type8/type8-1.gif" alt="image" style="width: 480px; height: auto;">
 </div>
 </p>
+
+# RQ2
+Data in RQ2 is available in `RQ2` folder.
+
+# RQ3
+
+# investigated_planners
