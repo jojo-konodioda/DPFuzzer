@@ -1,7 +1,7 @@
-Details about path planners we investigated are available in `investigated_planners` folder.
+Details about path planners we investigated are available in `investigated_planners` directory.
 
 # RQ1
-Code for replaying these scenarios is available in `RQ1` folder.
+Code for replaying these scenarios is available in `RQ1` directory.
 
 ## Videos
 
