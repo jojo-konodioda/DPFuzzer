@@ -112,6 +112,6 @@ optimization/lambda_collision:  1.0 -> 3.0
   <div style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.9); padding: 8px;">
     <b style="font-size: 32px;">After</b>
   </div>
-  <img src="fixing/type2/after.gif" alt="image" style="width: auto; height: 360px;">
+  <img src="fixing/type1/after.gif" alt="image" style="width: auto; height: 360px;">
 </div>
 </p>
