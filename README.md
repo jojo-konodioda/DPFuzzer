@@ -5,7 +5,7 @@ Code for replaying these scenarios is available in `RQ1` directory.
 
 ## Videos
 
-### 8 types of misbehaviors
+### 8 types of vulnerabilities
 
 <p align = "center">
 <div style="position: relative; display: inline-block;">
