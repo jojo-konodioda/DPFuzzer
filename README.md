@@ -75,7 +75,7 @@ Code for replaying these scenarios is available in `RQ1` directory.
 Data in RQ2 is available in `RQ2` directory.
 
 # RQ3
-### \#2 vulnerability demonstration
+### \#1 vulnerability
 <p align = "center">
 <div style="position: relative; display: inline-block;">
   <div style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.9); padding: 8px;">
@@ -94,5 +94,24 @@ Data in RQ2 is available in `RQ2` directory.
 
 
 # Fixing
-## Videos
-updating
+### \#1 fixing
+Adjusted parameters
+```bash
+optimization/lambda_smooth:     1.0 -> 0.4
+optimization/lambda_collision:  1.0 -> 3.0
+```
+<p align = "center">
+<div style="position: relative; display: inline-block;">
+  <div style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.9); padding: 8px;">
+    <b style="font-size: 32px;">Before</b>
+  </div>
+  <img src="fixing/type1/Before.gif" alt="image" style="width: auto; height: 360px;">
+</div>
+
+<div style="position: relative; display: inline-block;">
+  <div style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.9); padding: 8px;">
+    <b style="font-size: 32px;">After</b>
+  </div>
+  <img src="fixing/type2/After.gif" alt="image" style="width: auto; height: 360px;">
+</div>
+</p>
