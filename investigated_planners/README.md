@@ -27,7 +27,12 @@ We summarized the drone path planners as a below table.
 | 9  | 2020 | PathPlanning[2]              | X                                                                                                | [Link](https://github.com/zhm-real/PathPlanning)                 | 7.2k star  | X          | X          | X             |
 | 10 | 2019 | multi_agent_path_planning[2] | Nonlinear Model Predictive Control for Multi-Micro Aerial Vehicle Robust Collision Avoidance     | [Link](https://github.com/atb033/multi_agent_path_planning)      | 955 star   | X          | X          | X             |
 | 11 | 2019 | faster                       | Fast and Safe Trajectory Planner for Flights in Unknown Environments                             | [Link](https://github.com/mit-acl/faster)                        | 848 star   | O          | X          | O             |
+| 12 | 2019 | mav_active_3d_planning       | An Efficient Sampling-Based Method for Online Informative Path Planning in Unknown Environments  | [Link](https://github.com/ethz-asl/mav_active_3d_planning)       | 500 star   | O          | O          | X             |
+| 13 | 2020 | mader[2]                     | MADER: Trajectory Planner in Multi-Agent and Dynamic Environments                                | [Link](https://github.com/mit-acl/mader)                         | 443 star   | O          | O          | X             |
+| 14 | 2017 | path_planning                | X                                                                                                | [Link](https://github.com/ayushgaud/path_planning)               | 310 star   | O          | O          | X             |
+| 15 | 2018 | OctomapPlanner               | X                                                                                                | [Link](https://github.com/ArduPilot/OctomapPlanner)              | 113 star   | O          | O          | X             |
 
 
 [1] An early version of Ego Planner.
+
 [2] Theory analysis for algorithms, not for real drone.
