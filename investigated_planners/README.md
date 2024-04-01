@@ -31,6 +31,8 @@ We summarized the drone path planners as a below table.
 | 13 | 2020 | mader[2]                     | MADER: Trajectory Planner in Multi-Agent and Dynamic Environments                                | [Link](https://github.com/mit-acl/mader)                         | 443 star   | O          | O          | X             |
 | 14 | 2017 | path_planning                | X                                                                                                | [Link](https://github.com/ayushgaud/path_planning)               | 310 star   | O          | O          | X             |
 | 15 | 2018 | OctomapPlanner               | X                                                                                                | [Link](https://github.com/ArduPilot/OctomapPlanner)              | 113 star   | O          | O          | X             |
+| 16 | 2018 | motion_planning              | X                                                                                                | [Link](https://github.com/RuslanAgishev/motion_planning)         | 303 star   | X          | X          | X             |
+| 17 | 2017 | RealTimePathPlanning         | X                                                                                                | [Link](https://github.com/rishabh1b/RealTimePathPlanning)        | 295 star   | X          | X          | X             |
 
 
 [1] An early version of Ego Planner.
