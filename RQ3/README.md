@@ -1,4 +1,4 @@
-### \#1 vulnerability
+### Case \#1
 
 <p align = "center">
 <div style="position: relative; display: inline-block;">

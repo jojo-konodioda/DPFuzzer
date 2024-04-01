@@ -75,7 +75,7 @@ Code for replaying these scenarios is available in `RQ1` directory.
 Data in RQ2 is available in `RQ2` directory.
 
 # RQ3
-### \#1 vulnerability
+## Case \#1
 <p align = "center">
 <div style="position: relative; display: inline-block;">
   <div style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.9); padding: 8px;">
@@ -94,7 +94,7 @@ Data in RQ2 is available in `RQ2` directory.
 
 
 # Fixing
-## \#1 fix
+## Case \#1
 Adjusted parameters
 ```bash
 optimization/lambda_smooth:     1.0 -> 0.4
