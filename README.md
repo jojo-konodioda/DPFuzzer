@@ -75,20 +75,55 @@ Code for replaying these scenarios is available in `RQ1` directory.
 Data in RQ2 is available in `RQ2` directory.
 
 # RQ3
+## Comparison
+The comparison show the drone can reach destination in empty scenario or scenario with randomly arranged obstacles.
+
+<p align = "center">
+<div style="position: relative; display: inline-block;">
+  <div style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.9); padding: 8px;">
+    <b style="font-size: 32px;">Empty</b>
+  </div>
+  <img src="RQ3/comparison/empty.gif" alt="image" style="width: auto; height: 240px;">
+</div>
+
+<div style="position: relative; display: inline-block;">
+  <div style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.9); padding: 8px;">
+    <b style="font-size: 32px;">Random1</b>
+  </div>
+  <img src="RQ3/comparison/random1.gif" alt="image" style="width: auto; height: 240px;">
+</div>
+
+<div style="position: relative; display: inline-block;">
+  <div style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.9); padding: 8px;">
+    <b style="font-size: 32px;">Random2</b>
+  </div>
+  <img src="RQ3/comparison/random2.gif" alt="image" style="width: auto; height: 240px;">
+</div>
+</p>
+
 ## Case1
 <p align = "center">
 <div style="position: relative; display: inline-block;">
   <div style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.9); padding: 8px;">
     <b style="font-size: 32px;">Simulator</b>
   </div>
-  <img src="RQ3/type1/simulator.gif" alt="image" style="width: auto; height: 360px;">
+  <img src="case1/simulator.gif" alt="image" style="width: auto; height: 360px;">
+</div>
+</p>
+
+<p align = "center">
+<div style="position: relative; display: inline-block;">
+  <div style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.9); padding: 8px;">
+    <b style="font-size: 32px;">Real world 1</b>
+  </div>
+  <img src="case1/realworld1.gif" alt="image" style="width: auto; height: 360px;">
 </div>
 
 <div style="position: relative; display: inline-block;">
   <div style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.9); padding: 8px;">
-    <b style="font-size: 32px;">Real world</b>
+    <b style="font-size: 32px;">Real world 2</b>
   </div>
-  <img src="RQ3/type1/realworld.gif" alt="image" style="width: auto; height: 360px;">
+  <img src="case1/realworld2.gif" alt="image" style="width: auto; height: 360px;">
 </div>
 </p>
 
