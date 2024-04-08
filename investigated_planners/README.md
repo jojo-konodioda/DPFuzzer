@@ -9,7 +9,7 @@ We summarized the drone path planners as a below table.
 - Code: If the code of path planner not available, 'X' is marked.
 - Autonomous: If the path planner operates in uncharted environments, it is marked with 'O'. Some path planners rely on a global map and cannot autonomously search for paths. They are incapable of navigating obstacles and reaching destinations in cluttered and uncharted environments.
 - Popularity: Star of the path planner if open source, 'X' else.
-- Simulation: If the path planner support drone simulator, 'O' is marked. 
+- Simulation: If the path planner support drone simulator, 'O' is marked. Some path planners only support numerical simulation, which is only for theory analysis, are also marked as 'X'.
 - Practicalness: If the path planner widely deployed on real world drones, 'O' is marked  
 
 | ID | Year | Title                        | Paper                                                                                            | Code                                                             | Popularity | Autonomous | Simulation | Practicalness |
