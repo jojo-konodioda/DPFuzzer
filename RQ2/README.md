@@ -1,7 +1,7 @@
 ## RQ2:How effective is DPFuzzer?
 The `data` folder contains all the data in `Table II`
 
-### Structure
+### Folder structure description
 
 
 `tree data -L 3`
