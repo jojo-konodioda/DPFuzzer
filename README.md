@@ -1,5 +1,3 @@
-Details about drone path planners we investigated are available in `investigated_planners` directory.
-
 # RQ1:What vulnerabilities can DPFuzzer reveals?
 Code for replaying these scenarios is available in `RQ1` directory.
 
