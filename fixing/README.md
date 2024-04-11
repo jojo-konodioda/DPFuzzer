@@ -1,4 +1,4 @@
-# Fixing
+# Fix Vulnerabilities
 ## Case1
 Adjusted parameters
 ```bash
