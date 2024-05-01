@@ -10,12 +10,12 @@ We summarized the drone path planners as a below table.
 - Autonomous: If the path planner operates in uncharted environments, it is marked with 'O'. Some path planners rely on a global map and cannot autonomously search for paths. They are incapable of navigating obstacles and reaching destinations in cluttered and uncharted environments.
 - Popularity: Star of the path planner if open source, 'X' else.
 - Simulation: If the path planner support drone simulator, 'O' is marked. Some path planners only support numerical simulation, which are only for theory analysis, also marked as 'X'.
-- Practicalness: If the path planner widely deployed on real world drones, 'O' is marked  
+- Practicalness: If the path planner widely deployed on real world drones, 'O' is marked.
 
 | ID | Year | Title                        | Paper                                                                                            | Code                                                             | Popularity | Autonomous | Simulation | Practicalness |
 |----|------|------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------|------------|------------|---------------|
 | A1 | 2020 | Ego Planner                  | EGO-Planner: An ESDF-free Gradient-based Local Planner for Quadrotors                            | [Link](https://github.com/ZJU-FAST-Lab/ego-planner/tree/master)  | 1.2k star  | O          | O          | O             |
-| A2 | 2021 | Ego Planner Swarm            | EGO-Swarm: A Fully Autonomous and Decentralized Quadrotor Swarm System in Cluttered Environments | [Link](https://github.com/ZJU-FAST-Lab/ego-planner-swarm)        | 1.0k star  | O          | O          | O             |
+| A2 | 2021 | Ego Planner Swarm            | EGO-Swarm: A Fully Autonomous and Decentralized Quadrotor Swarm System in Cluttered Environments | [Link](https://github.com/ZJU-FAST-Lab/ego-planner-swarm)        | 1.1k star  | O          | O          | O             |
 | 1  | 2016 | AvisionMissionPlanner        | X                                                                                                | [Link](https://github.com/AvisionRobotics/AvisionMissionPlanner) | 3 star     | X          | X          | X             |
 | 2  | 2020 | mbplanner                    | Motion Primitives-based Agile Exploration Path Planning for Aerial Robotics                      | [Link](https://github.com/ntnu-arl/mbplanner_ros)                | 295 star   | O          | O          | X             |
 | 3  | 2019 | Fast Planner[1]              | X                                                                                                | [Link](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)    | 2.1k star  | O          | O          | X             |
