@@ -1,10 +1,10 @@
 # About the directory
 
-This directory contains the data and video for the experiments added in revision.
+This directory contains data and videos about experiments added in revision.
 
-The `vulnerabilities` directory contains the videos and the scenario file about vulnerabilities found in `FUEL`.
+The `vulnerabilities` directory contains videos and scenario file about vulnerabilities found in `FUEL`.
 
-The `data` directory contains the data about `FUEL` in `Table II`.
+The `data` directory contains data about `FUEL` in `Table II`.
 
 
 
