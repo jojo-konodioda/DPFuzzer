@@ -4,7 +4,7 @@ This directory contains data and videos about experiments added in revision.
 
 The `vulnerabilities` directory contains videos and scenario file about vulnerabilities found in `FUEL`.
 
-The `testing_process.mp4` shows a round of testing process.
+The `testing_process.mp4` shows the video about a round of testing process.
 
 The `data` directory contains data about `FUEL` in `Table II`.
 
