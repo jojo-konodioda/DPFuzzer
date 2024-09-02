@@ -2,7 +2,7 @@
 
 This directory contains data and videos about experiments added in revision.
 
-The `vulnerabilities` directory contains videos and scenario files about experiments added in RQ1 to show vulnerabilities uncovered in `FUEL`.
+The `vulnerabilities` directory contains videos and scenario files about experiments added in RQ1 to show vulnerabilities in `FUEL`.
 
 The `testing_process.mp4` shows the how our tool tests and explores vulnerabilities in `FUEL` with 5x speed.
 
