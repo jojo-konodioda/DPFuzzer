@@ -2,9 +2,9 @@
 
 This directory contains data and videos about experiments added in revision. We deployed our tool to test a drone path planner named `FUEL` to further clarify the scalability of our tool. `FUEL` is available in <https://github.com/HKUST-Aerial-Robotics/FUEL>.
 
-The `vulnerabilities` directory contains videos and scenario files about experiments added in RQ1 to show vulnerabilities in `FUEL`.
+The `vulnerabilities` directory contains videos and scenario files about experiments added in RQ1 to show vulnerabilities found in `FUEL`.
 
-The `testing_process.mp4` shows the how our tool tests and explores vulnerabilities in `FUEL` with 5x speed.
+The `testing_process.mp4` shows the how our tool explores vulnerabilities in `FUEL` with 5x speed.
 
 The `data` directory contains data about added experiments in RQ2.
 
